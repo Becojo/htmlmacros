@@ -56,4 +56,3 @@ Tests are made using `testhelp.h` from [antirez/sds](https://github.com/antirez/
 ## License
 
   Public domain
-  
